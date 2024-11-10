@@ -1,0 +1,1 @@
+Project to analyse how soaring weather in Australia is influenced by ENSO, SAM and IOD (major weather influences in Australia). Includes scripts to download data from OLC and WeGlide (platforms where glider pilots upload their flights), clean & merge the data and perform a bunch of analysis, including correlation, multiple linear regression and plotting. 
